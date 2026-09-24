@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=EdillNah&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]![Profile Views](https://seeyoufarm.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 👨‍💻 Author

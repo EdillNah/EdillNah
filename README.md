@@ -53,12 +53,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/EdillNah">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EdillNah&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/muh-aidil-al-qadri-az-5648bb412/">

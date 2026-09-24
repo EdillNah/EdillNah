@@ -23,7 +23,7 @@
 
 **Ajetzz**
 
-- 🌐 Portfolio: https://ajetzz.dev/
+- 🌐 Portfolio: onGoing
 - 💻 GitHub: https://github.com/EdillNah
 - 🔗 LinkedIn: https://www.linkedin.com/in/muh-aidil-al-qadri-az-5648bb412
 

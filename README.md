@@ -19,3 +19,12 @@
 [![](https://komarev.com/ghpvc/?username=EdillNah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 Author
+
+**Ajetzz**
+
+- 🌐 Portfolio: https://ajetzz.dev/
+- 💻 GitHub: https://github.com/EdillNah
+- 🔗 LinkedIn: https://www.linkedin.com/in/muh-aidil-al-qadri-az-5648bb412
+
+```

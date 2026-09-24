@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![]![Profile Views](https://seeyoufarm.com)
+![Profile Views](https://komarev.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 👨‍💻 Author
